@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+ <html>
+ <head>
+  <title><center>
+    <b>  
+      WEBPAGE
+    </b>
+   </title>
+  </head>
+  <body>
+   <header>
+      <h1> w3schools </h1>
+      <p> This is a free webpage for students to learn programming language </p>
+    </header>
+    <nav>
+       <a href="#home">HOME</a> |
+       <a href="#about">ABOUT</a> |
+       <a href="#contact">CONTACT</a>
+    </nav>
+  <section>
+       <h2> INTRODUCTION </h2>
+       <p> this is a great online platform to learn all the programming language that can be so useful for your skill development and knowledge </p>
+     
+       <h2> PROGRAMMING LANGUAGE </h2>
+       <p> In this AI world, programming language plays a major role for all developersin this field so that we're giving you a great and effective pulatform to develope your skills<p>
+  </section>
+  <article>
+       <h2> HTML <h2>  
+       <p> HTML, or HyperText Markup Language, is the foundational language used to create and structure content on the World Wide Web. It is a markup language, not a programming language, meaning it uses a system of tags and elements to define the structure and meaning of web content. </p>
+     
+       <h2> CSS </h2>
+       <p> CSS, or Cascading Style Sheets, is a stylesheet language used to describe the presentation of a web page written in HTML or XML. It dictates how HTML elements are displayed on a web page, controlling aspects such as colors, fonts, layout, and spacing. CSS is a fundamental component of web development, working in conjunction with HTML (which provides the structure) and JavaScript (which adds interactivity).</p>
+     
+       <h2> JAVASCRIPT </h2>
+       <p> JavaScript is a high-level, interpreted programming language primarily known for its role in making web pages interactive and dynamic. It is the scripting language of the web, and is fully integrated with HTML and CSS.</p>
+ </article>
+ <footer>
+  <h5> COPYRIGHTS </h5>
+  <p> W3Schools is optimized for learning and training. Examples might be simplified to improve reading and learning. Tutorials, references, and examples are constantly reviewed to avoid errors, but we cannot warrant full correctness of all content. While using W3Schools, you agree to have read and accepted our terms of use, cookie and privacy policy.
+
+Copyright 1999-2025 by Refsnes Data. All Rights Reserved. W3Schools is Powered by W3.CSS.</p>
+
+  <p><a href="www.w3schools.com">w3schools.com</a></p>
+</footer>
+   
+</body>
+</
